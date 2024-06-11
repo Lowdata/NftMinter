@@ -1,12 +1,6 @@
 # Welcome
 
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
-
-To find out more please visit:
-
-
-
-Create generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js(v10.18.0) installed.
+This repository is the variation of the HASHLIPS lib for the nft generation programme.
 
 ## Installation 🛠️
 
